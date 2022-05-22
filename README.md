@@ -1,12 +1,12 @@
-<h1>  XXX  <h1\>
-
-- 👋 Hi, I’m @thiagonett0
-- 👀 I’m interested in Mathematics, Physics and Coding!
-- 🌱 I’m currently learning uninteresting things!
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me thiagonetto@id.uff.br
+## Eae pessoal, sou Thiago Netto!
 
 
-### Connect with me
+- 👀 Matemática, Programação e Física (nessa ordem hein!)
+- 🌱 No momento, estou ajeitando as coisas do GitHub
+- 💞️ Hmm, não tenho ideia em que colaborar ainda...
+- 📫 Qualquer coisa, já sabe: thiagonetto@id.uff.br
+
+
+### Ou também,
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/thiagonett0/)
 <br />
