@@ -7,7 +7,7 @@
 - 📫 Qualquer coisa, já sabe: thiagonetto@id.uff.br
 
 
-Claramente, existem bibliotecas existentes para (quase) todos os projetos aqui guardados. Portanto, os projetos visam demonstrar o desenvolver matemático e lógico (lógica de programação principalmente) do que puramente escalabilidade. Embora optou-se por algoritmos com menor flops possível.
+:P
 
 
 ### Ou também,
